@@ -36,8 +36,6 @@ const config = JSON.parse(fs.readFileSync('./db/config.json'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
-const users = require('./db/user.json');
-
 function checkAuth(req, res, next) {
   if (req.session.isAuthenticated) {
     next();
