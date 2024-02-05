@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property='og:image' content='https://imgdb.net/storage/uploads/d37c3b2850c8ca51cf21816ca3b9ac65823fa4f15704a3583ffd7c365b12fce2.png'/>
+  <meta property='og:description' content='Aplikasi untuk memudahkan piket sidang dalam berbagi informasi'/> 
+<meta property='og:url' content='https://s.id/jagsid'/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+<title>JAGA SIDANG</title>
+
+</head>
+  <style>
+    .komplit {
+      background-color: #FCAEAE;
+    }
+    .belum {
+      background-color: #D0F5BE;
+    }
+    input[type="checkbox"] {
+      width: 15px;
+      height: 15px;
+      margin-right: 10px;
+      transform: scale(1.5); 
+    }
+      .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 2px;
+    }
+    .completed{
+      /* display: none; */
+    }
+  </style>
+<body>
+  
+<nav class="navbar p-3 pb-0 pt-3 shadow-sm pb-2">
+<h6 class="navbar-brand" href="#">
+<img src="https://imgdb.net/storage/uploads/68f965b8eab0e02d49719214ee5323d4de917d9004c58e261ec420c92c34d368.png"
+alt="Logo" width="200px" class="d-inline-block align-text-top"> 
+</h6>
+<button type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom" aria-controls="offcanvasBottom" class="btn btn-primary rounded-pill position-relative">
+<i class="fa-solid fa-bell"></i>
+<span class="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-danger">
+<span id="completed-count">0</span>
+</span>
+</button>
+</nav>
+<div class="container-sm" style="max-width: 400px">
+  <div class="offcanvas offcanvas-bottom" style="  height: 50vh; border-radius: 20px 20px 0px 0px;" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasBottomLabel">Notifikasi</h5>
+  </div>
+  <div class="offcanvas-body small">
+    <div id="notif"></div>
+    <!-- <a class="btn btn-primary  btn-sm " href="https://jaga-sidang.theazran.repl.co/get" target="_blank">GET</a>
+    <a class="btn btn-primary  btn-sm" href="https://jaga-sidang.theazran.repl.co/getdetail" target="_blank">
+      GET DETAIL
+    </a> -->
+  </div>
+</div>
+  
+   <div class="card mt-4 border-0 shadow-sm">
+    <div class="card-header border-0">
+      <div class="header">
+        <span>🏛️ Petugas Sidang</span>
+        <span class="badge bg-success shadow" id="jam">00:00:00</span>
+      </div>
+    </div>
+    <div class="card-body">
+      <span class="card-text" id="piketsidang">
+      <div class="d-flex justify-content-center">
+        <div class="spinner-border text-success" role="status">
+          <span class="visually-hidden text-center">Loading...</span>
+        </div>
+      </div>
+      </span>
+    </div>
+  </div>
+
+  <!-- <div class="alert alert-danger border-0 shadow-lg mt-4" role="alert">
+    <b>DI CENTANG YA KAKA KAKA!</b>
+  </div> -->
+  
+  <form id="todo-form" style="display:none;">
+    <input type="text" id="task-input" placeholder="Catatan" class="form-control mt-1">
+    <input type="text" id="keterangan-input" placeholder="Keterangan" class="form-control mt-1">
+    <button type="submit" class="btn btn-primary mt-1">Tambah</button>
+  </form>
+  <div id="todo-list" class="mt-4 todo-list"></div>
+  <p>
+
+</div>
+  <div class="toast-container position-fixed bottom-0 end-0 p-3">
+    <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <img src="..." class="rounded me-2" alt="...">
+        <strong class="me-auto">Bootstrap</strong>
+        <small id="toast-timestamp">11 mins ago</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body" id="toast-message">
+        Hello, world! This is a toast message.
+      </div>
+    </div>
+  </div>
+  
+    <div class="footer text-center">
+    <span><b>Jaga Sidang</b> - Versi 1.0</span><br>
+    <small class="pb-4">Made with ❤️ by <a href="https://instagram.com/theazran_" class="text-danger">@theazran_</a></small>
+  </div>
+<script src="script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/edad16a995.js" crossorigin="anonymous"></script>
+</body>
+</html>

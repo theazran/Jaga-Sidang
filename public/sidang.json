@@ -1,0 +1,175 @@
+[
+  {
+    "id": 1,
+    "nomorPerkara": "118/Pdt.P/2023/PN Blk",
+    "jenisPerkara": "SIDANG PERTAMA",
+    "terdakwa": "Pemohon:Muh Ansar",
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "SIDANG PERTAMA",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang I / CAKRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIM",
+    "paniteraPengganti": "ISNAWANTI, S.H.",
+    "completed": false,
+    "Detil": "QWI2NmpsV1FSNVZSaTY5amt1N3FpclpHYXU2WVRjSXpkaVVkQ1QzQjNnWlRkWWVWUk5oNjRTb1o2Nys3RXJjRzZSdXJaN1lIWFppS0pzNkNJd1hDYUE9PQ=="
+  },
+  {
+    "id": 2,
+    "nomorPerkara": "119/Pdt.P/2023/PN Blk",
+    "jenisPerkara": "SIDANG PERTAMA",
+    "terdakwa": "Pemohon:Rosia",
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "SIDANG PERTAMA",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang I / CAKRA",
+    "majelisHakim": "ANDI MUH AMIN A.R",
+    "paniteraPengganti": "HAERUDDIN MADJID, SH., MH.",
+    "completed": false,
+    "Detil": "R0dHeUVXVmNYREE2TENYYzN2aU0zcCtmVXFaTUQyNk5ERmd3Mmo0TUhwa2RBSFgvSldSWWxzNE9sdkFnNTJQL2o2WFZFWVhjR3FWU3BVbk5yeFhQNFE9PQ=="
+  },
+  {
+    "id": 3,
+    "nomorPerkara": "112/Pdt.P/2023/PN Blk",
+    "jenisPerkara": "pembacaan penetapan",
+    "terdakwa": "Pemohon:Andi Suhrah",
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "pembacaan penetapan",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Sidang e-Litigasi",
+    "majelisHakim": "ANDI MUH AMIN A.R",
+    "paniteraPengganti": "ANDI MUHAMMAD REFIL, S.H., M.H.",
+    "completed": false,
+    "Detil": "ZzVzV1E0Z2RsOC9zbTdEelpPSXM2ajAxdlBENUg4K0JhZlo2M0Vja0RkRlFrenB2c0JYSU1xV0hMc3ViNk41c2VkTGJCUFV5T3c5dzNqSWplb1dCM0E9PQ=="
+  },
+  {
+    "id": 4,
+    "nomorPerkara": "66/Pid.B/2023/PN Blk",
+    "jenisPerkara": "Saksi meringangkan terdakwa.",
+    "terdakwa": [
+      "Sunusi Als Ucci Bin Talla"
+    ],
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "Saksi meringangkan terdakwa.",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang 2 / CANDRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIMRIA HANDAYANIMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "JAMALUDDIN, SH.",
+    "completed": false,
+    "Detil": "T3FEanBpS3hsVGhjMTk3RDdxRnlYSGFRangyM1hKTDErS21NZUoyWVh5WGdQNnZsYzROVDNYK2NWSGNCQmtlTzh4QlVYWkdDUzdGUEhVdU4vMDh4Y0E9PQ==",
+    "penuntutUmum": [
+      "MUHITH NUR, SH.,MH",
+      "GANIES AULIA RAMADHA,SH",
+      "MUHAMMAD SYAMSURIZAL ABADI, SH",
+      "Nur Ibnu Hajar, S.H."
+    ]
+  },
+  {
+    "id": 5,
+    "nomorPerkara": "62/Pid.B/2023/PN Blk",
+    "jenisPerkara": "Masih pembutian PU.",
+    "terdakwa": [
+      "Andi Bin Salam",
+      "Sunusi Als Uci Bin Talla"
+    ],
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "Masih pembutian PU.",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang 2 / CANDRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIMRIA HANDAYANIMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "JAMALUDDIN, SH.",
+    "completed": false,
+    "Detil": "VTBqQW9oU0l3OGFZYzIrWUdmVVh1RUY0cFhWbkZ4ZDM5ZkZMQVZhbDEwTmZoSlpGeHJNVk9sSExxNEdsOGErRjdJZnVsc2kyNWFtSDMrMXI2elZwdXc9PQ==",
+    "penuntutUmum": [
+      "MUHAMMAD SYAMSURIZAL ABADI, S.H.,M.H",
+      "RIZKI NUR ANBAR, S.H",
+      "MUHAMMAD YUSRAN SETIAWAN,SH"
+    ]
+  },
+  {
+    "id": 6,
+    "nomorPerkara": "71/Pid.B/2023/PN Blk",
+    "jenisPerkara": "Sidang Pembuktian",
+    "terdakwa": [
+      "Basri B Als. Bonto Bin Banrung"
+    ],
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "Sidang Pembuktian",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang I / CAKRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIMRIA HANDAYANIMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "A. M. SULHIDAYAT SYUKRI, SH., MH.",
+    "completed": false,
+    "Detil": "b0Z5Um1nK3gzOFhQdUVCQklpb3c3VXM4TXlOZXZhOFk3TTFuZGpWNGpKaEhNM08xTE4xWkNReWFKV1pTNHQ0RHNaQ1huZmJoSGlJYTA0Vk1ldTlKa3c9PQ==",
+    "penuntutUmum": [
+      "MUHAMMAD YUSRAN SETIAWAN,SH",
+      "MUHAMMAD SYAMSURIZAL ABADI, S.H.,M.H",
+      "RIZKI NUR ANBAR, S.H"
+    ]
+  },
+  {
+    "id": 7,
+    "nomorPerkara": "64/Pid.B/2023/PN Blk",
+    "jenisPerkara": "Sidang Lanjutan Pembuktian",
+    "terdakwa": [
+      "Basri B Als. Bonto Bin Banrung"
+    ],
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "Sidang Lanjutan Pembuktian",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang I / CAKRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIMRIA HANDAYANIMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "A. M. SULHIDAYAT SYUKRI, SH., MH.",
+    "completed": false,
+    "Detil": "ZVdmODdjd0hZWW9yRU9lZFJJNjhacVdTbEVpc1drZTNrTDl2ZVMramN4N1V1TTBwZG94TXQwMW54V3FIZlBIWk5EK05EbnZSaXp2Qi9oeS8xNUk0S1E9PQ==",
+    "penuntutUmum": [
+      "MUHITH NUR, SH.,MH",
+      "GANIES AULIA RAMADHA,SH",
+      "MUHAMMAD SYAMSURIZAL ABADI, S.H.,M.H",
+      "Nur Ibnu Hajar, S.H."
+    ]
+  },
+  {
+    "id": 8,
+    "nomorPerkara": "73/Pid.B/2023/PN Blk",
+    "jenisPerkara": "MAsih Pembuktian PU",
+    "terdakwa": [
+      "Sunusi Als Uci Bin Talla"
+    ],
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "MAsih Pembuktian PU",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang 2 / CANDRA",
+    "majelisHakim": "MUHAMMAD ADIL KASIMRIA HANDAYANIMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "JAMALUDDIN, SH.",
+    "completed": false,
+    "Detil": "VS8xeGRZbHlmZlRaMWRHSHJSNzljaE53RXo4dmc5MFViYmswdG9WM3FYRW1qU25uakp4M0VuMnJLVVFDQmg5S05oOW4vcGlnVGF1cHphendQT0RCR0E9PQ==",
+    "penuntutUmum": [
+      "NORA DWI PUSPITASARI, SH",
+      "MUHAMMAD SYAMSURIZAL ABADI, S.H.,M.H",
+      "KASMAWATI SALEH SKM,SH"
+    ]
+  },
+  {
+    "id": 9,
+    "nomorPerkara": "12/Pdt.G/2023/PN Blk",
+    "jenisPerkara": "Penetapan Mediator",
+    "terdakwa": "Penggugat:Rosliah binti Ballo SattuTergugat:1.St. Munahara2.H. Colleng3.Saida4.Saniasa5.Modding6.Hasan7.Hitang8.Bastaman",
+    "hariTanggalSidang": "Wednesday, 26 Jul. 2023",
+    "jamSidang": "",
+    "agenda": "Penetapan Mediator",
+    "sidangKeliling": "TIDAK",
+    "ruangSidang": "Ruang Sidang I / CAKRA",
+    "majelisHakim": "FITRIANAANDI MUH AMIN A.RMUHAMMAD MUSASHI ACHMAD PUTRA",
+    "paniteraPengganti": "AKHMAD BASIR, SH.",
+    "completed": false,
+    "Detil": "b1NITkdOTTVyYmZpbTNnbHhBQ3pvSXlWQWF6bGs4blUrWHhjNVd5bUVockVUckpwaE81RFBXTmVMb0dnSHRBeEMyRW5qam9BOXFOTDI5M0lla2hOZHc9PQ=="
+  }
+]

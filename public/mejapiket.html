@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detail Jadwal Sidang</title>
+</head>
+<body>
+    <div id="jadwalSidang"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function getDataAndDisplay() {
+            $.ajax({
+                url: './db/detailJadwalSidang.json', // Ganti dengan URL file JSON sesuai dengan lokasi Anda
+                dataType: 'json',
+                success: function(data) {
+                    displayData(data);
+                }
+            });
+        }
+
+        function displayData(data) {
+            var jadwalSidangDiv = document.getElementById('jadwalSidang');
+
+            // Buat template tampilan data dari JSON
+            var html = `
+                <h2>Detail Jadwal Sidang</h2>
+                <p>ID: ${data.id}</p>
+                <p>Nomor Perkara: ${data.nomorPerkara}</p>
+                <p>Jenis Perkara: ${data.jenisPerkara}</p>
+                <!-- Tambahkan informasi lain sesuai kebutuhan -->
+            `;
+
+            jadwalSidangDiv.innerHTML = html;
+        }
+
+        // Panggil fungsi getDataAndDisplay() secara berkala setiap 5 detik
+        setInterval(getDataAndDisplay, 5000);
+    </script>
+</body>
+</html>
